@@ -1,0 +1,9 @@
+C:\NewralNetwork\Hemming\Hemming\bin\Debug\Hemming.exe.config
+C:\NewralNetwork\Hemming\Hemming\bin\Debug\Hemming.exe
+C:\NewralNetwork\Hemming\Hemming\bin\Debug\Hemming.pdb
+C:\NewralNetwork\Hemming\Hemming\obj\Debug\Hemming.csprojResolveAssemblyReference.cache
+C:\NewralNetwork\Hemming\Hemming\obj\Debug\Hemming.Form1.resources
+C:\NewralNetwork\Hemming\Hemming\obj\Debug\Hemming.Properties.Resources.resources
+C:\NewralNetwork\Hemming\Hemming\obj\Debug\Hemming.csproj.GenerateResource.Cache
+C:\NewralNetwork\Hemming\Hemming\obj\Debug\Hemming.exe
+C:\NewralNetwork\Hemming\Hemming\obj\Debug\Hemming.pdb
